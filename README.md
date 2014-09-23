@@ -51,40 +51,21 @@ Apple ID: 784484940
 
 ### Release 1.0 description
 
-Player of our favorite radio station in Ljubljana, Slovenia. Features: 
+Player of our favorite radio station in Ljubljana, Slovenia.  
 
-* play in background, 
-* remote control support, 
-* audio session interruption support, 
-* robust http audio connection with many redelivery attempts. 
+Features:
+* play in background,
+* remote control support,
+* audio session interruption support,
+* robust http audio connection with many redelivery attempts.
 
-Established on 9. May 1969 by the Student Organization of the University 
-of Ljubljana, the legendary Radio Študent (RŠ) is one of Europe's oldest 
-and strongest non-commercial, alternative urban radio stations, 
-attracting over 200 contributors to its high-quality non-commercial 
-programming every year. RŠ is based in Ljubljana, the capital of the 
-Republic of Slovenia. 
+Established on 9. May 1969 by the Student Organization of the University of Ljubljana, the legendary Radio Študent (RŠ) is one of Europe's oldest and strongest non-commercial, alternative urban radio stations, attracting over 200 contributors to its high-quality non-commercial programming every year. RŠ is based in Ljubljana, the capital of the Republic of Slovenia.
 
-The Radio Študent homepage address is www.radiostudent.si [2]. It is 
-broadcast on 89.3 MHz (500 W) UKV stereo, covering Ljubljana and its 
-surroundings (500,000 potential listeners). 
+The Radio Študent homepage address is www.radiostudent.si [2]. It is broadcast on 89.3 MHz (500 W) UKV stereo, covering Ljubljana and its surroundings (500,000 potential listeners).
 
-In the history of Slovene radio broadcasting RŠ stands out as the 
-foremost presenter and critical evaluator of actual global music events 
-with its characteristic form of music criticism, heartfelt and absorbed 
-presentation of liminal, edgy, marginalised and socially provocative 
-music from the world, ranging from all alternative forms of rock, 
-contemporary DJ and electronic music, jazz and improvised music, 
-avant-garde and folk music, experimental music etc. 
+In the history of Slovene radio broadcasting RŠ stands out as the foremost presenter and critical evaluator of actual global music events with its characteristic form of music criticism, heartfelt and absorbed presentation of liminal, edgy, marginalised and socially provocative music from the world, ranging from all alternative forms of rock, contemporary DJ and electronic music, jazz and improvised music, avant-garde and folk music, experimental music etc.
 
-Due to the variety and range of these contributors, many innovative 
-cultural, political and social initiatives have sprung from the 
-activities of Radio Študent. RŠ programming policy fuses community radio 
-and public service concepts. From its earliest days the station has 
-promoted civil society initiatives, particularly in connection with 
-urban lifestyles, freedom of speech, independent thought, libertarian 
-values, cultural diversity, social critique, tolerance, social 
-solidarity and human rights. 
+Due to the variety and range of these contributors, many innovative cultural, political and social initiatives have sprung from the activities of Radio Študent. RŠ programming policy fuses community radio and public service concepts. From its earliest days the station has promoted civil society initiatives, particularly in connection with urban lifestyles, freedom of speech, independent thought, libertarian values, cultural diversity, social critique, tolerance, social solidarity and human rights.
 
 ### Release 1.0.1 
 
